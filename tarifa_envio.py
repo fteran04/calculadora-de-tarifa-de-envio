@@ -1,5 +1,5 @@
 def calcular_costo_envio(peso, largo, ancho, alto, distancia, tipo_envio):
-    # 1. VALIDACIONES
+    # VALIDACIONES
     if peso <= 0:
         raise ValueError("El peso debe ser un número positivo.")
 
