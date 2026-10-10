@@ -1,0 +1,24 @@
+test_alto_cero (test.TestCalcularCostoEnvio.test_alto_cero) ... ok
+test_ancho_negativo (test.TestCalcularCostoEnvio.test_ancho_negativo) ... ok
+test_cargo_por_distancia (test.TestCalcularCostoEnvio.test_cargo_por_distancia) ... ok
+test_cargo_por_volumen (test.TestCalcularCostoEnvio.test_cargo_por_volumen) ... ok
+test_distancia_cero (test.TestCalcularCostoEnvio.test_distancia_cero) ... ok
+test_distancia_limite_100_km (test.TestCalcularCostoEnvio.test_distancia_limite_100_km) ... ok
+test_distancia_negativa (test.TestCalcularCostoEnvio.test_distancia_negativa) ... ok
+test_envio_estandar (test.TestCalcularCostoEnvio.test_envio_estandar) ... ok
+test_envio_expres (test.TestCalcularCostoEnvio.test_envio_expres) ... ok
+test_largo_cero (test.TestCalcularCostoEnvio.test_largo_cero) ... ok
+test_peso_cero (test.TestCalcularCostoEnvio.test_peso_cero) ... ok
+test_peso_limite_10_kg (test.TestCalcularCostoEnvio.test_peso_limite_10_kg) ... ok
+test_peso_negativo (test.TestCalcularCostoEnvio.test_peso_negativo) ... ok
+test_recargo_por_peso (test.TestCalcularCostoEnvio.test_recargo_por_peso) ... ok
+test_tipo_envio_invalido (test.TestCalcularCostoEnvio.test_tipo_envio_invalido) ... ok
+test_tipo_envio_mayusculas (test.TestCalcularCostoEnvio.test_tipo_envio_mayusculas) ... ok
+test_todos_los_cargos (test.TestCalcularCostoEnvio.test_todos_los_cargos) ... ok
+test_volumen_limite (test.TestCalcularCostoEnvio.test_volumen_limite) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.001s
+
+OK
+Costo de envío: $84,600
